@@ -1,0 +1,17 @@
+{
+    "max_shortcuts": 8,
+    "mouse_button": {
+        "button": "xbutton2",
+        "detail": 2
+    },
+    "shortcuts": [
+        {"name": "Chrome", "command": "chrome.exe", "type": "program", "angle": 0},
+        {"name": "VS Code", "command": "code.exe", "type": "program", "angle": 45},
+        {"name": "Task Manager", "command": "ctrl+shift+esc", "type": "hotkey", "angle": 90},
+        {"name": "Lock PC", "command": "windows+l", "type": "hotkey", "angle": 135},
+        {"name": "Screenshot", "command": "windows+shift+s", "type": "hotkey", "angle": 180},
+        {"name": "File Explorer", "command": "windows+e", "type": "hotkey", "angle": 225},
+        {"name": "Run", "command": "windows+r", "type": "hotkey", "angle": 270},
+        {"name": "Settings", "command": "windows+i", "type": "hotkey", "angle": 315}
+    ]
+} 
