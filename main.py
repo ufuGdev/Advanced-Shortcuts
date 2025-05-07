@@ -1,6 +1,6 @@
 # Advanced Shortcuts - Radial Menu
 # Author: Ufuk
-# GitHub: github.com/ufukty
+# GitHub: github.com/ufuGdev
 # Description: A customizable radial menu for Windows shortcuts and programs
 # Version: 1.0
 # License: MIT
